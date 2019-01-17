@@ -4,7 +4,7 @@
    </HEAD>
    <BODY>
       <P>
-         Hello students! <B>
+         <b> Hello students! <br>
          Biology is the very important study of life, on this site you can find visual representations of very important proccesses          in the study of life.
       </p>
    </BODY>
