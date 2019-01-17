@@ -1,4 +1,7 @@
 <HTML>
+   <STYLE>
+         background-color: "blue"
+   </STYLE>
    <HEAD>
    </HEAD>
    <BODY>
