@@ -1,6 +1,6 @@
 <HTML>
    <HEAD>
-      My first HTML document
+      Learning the secrets of life through the classroom
    </HEAD>
    <BODY>
       <P>
