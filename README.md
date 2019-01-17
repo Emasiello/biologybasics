@@ -8,3 +8,5 @@
          Biology is the very important study of life, on this site you can find visual representations of very important proccesses          in the study of life.
          <h2>Types of cells</h2>
          <a href="lung-cells">Lung Cells</a>
+         <a href="egg-cells">Egg Cells</a>
+         
